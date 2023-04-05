@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: rgb(75, 65, 71);
+ text-decoration-color: rgb(119, 17, 17);
+}
+
+.nb{
+  background-color:blueviolet;
+}
+.hj{
+  background-color: aqua;
+}
+.nn{
+  background-image:url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg)
+}
+.jj{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeeSUNohKvenp9vhb8JTYzTOEkl6rMyNSKuMk4kg0&s);
+}
+.hh{
+  background-color: rgb(226, 43, 171);
+}
